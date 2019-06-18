@@ -9,7 +9,10 @@
   "reason": {
     "react-jsx": 2
   },
-  "bs-dependencies": ["reason-react"],
+  "bs-dependencies": [
+    "reason-react",
+    "@jsiebern/bs-material-ui"
+  ],
   "sources": [
     {
       "dir": "src",
