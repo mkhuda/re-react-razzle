@@ -13,15 +13,15 @@
   },
   "dependencies": {
     "@jsiebern/bs-material-ui": "^1.1.1",
-    "express": "^4.16.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "express": "^4.17.1",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
     "reason-react": "^0.7.0"
   },
   "devDependencies": {
     "@jsiebern/bs-material-ui-ppx": "^1.0.4",
-    "bs-platform": "^4.0.17",
-    "concurrently": "^4.0.1",
-    "razzle": "^2.4.1"
+    "bs-platform": "^5.0.3",
+    "concurrently": "^4.1.0",
+    "razzle": "^3.0.0"
   }
 }

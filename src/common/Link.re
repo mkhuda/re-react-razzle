@@ -1,6 +1,5 @@
 let component = ReasonReact.statelessComponent("Link");
 
-[@react.component]
 let make = (~href, ~className="", children) => {
   ...component,
   render: self =>
