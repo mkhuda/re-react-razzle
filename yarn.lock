@@ -733,11 +733,6 @@
     bsb-native "^4.0.9"
     yauzl "^2.10.0"
 
-"@jsiebern/bs-material-ui@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@jsiebern/bs-material-ui/-/bs-material-ui-1.1.1.tgz#f8a60faa8b6e9c986f6783e285f056f9513d6b13"
-  integrity sha512-vcHsWN1bWF+OM85qVLcyCypSVvLwfOJDzGsh7vbUqenbZfS/6S+N+VNeOp2sxSoIz5rdcaMwYiFg5+pzMBljZQ==
-
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"

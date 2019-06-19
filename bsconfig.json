@@ -11,7 +11,7 @@
   },
   "bs-dependencies": [
     "reason-react",
-    "@jsiebern/bs-material-ui"
+    "bs-css"
   ],
   "sources": [
     {

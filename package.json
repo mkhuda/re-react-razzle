@@ -12,14 +12,13 @@
     "start:prod": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "@jsiebern/bs-material-ui": "^1.1.1",
+    "bs-css": "^8.0.4",
     "express": "^4.17.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "reason-react": "^0.7.0"
   },
   "devDependencies": {
-    "@jsiebern/bs-material-ui-ppx": "^1.0.4",
     "bs-platform": "^5.0.3",
     "concurrently": "^4.1.0",
     "razzle": "^3.0.0"

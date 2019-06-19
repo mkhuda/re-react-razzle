@@ -1,5 +1,4 @@
 let text = ReasonReact.string;
-
 let component = ReasonReact.statelessComponent("App");
 
 /* underscore before names indicate unused variables. We name them for clarity */
@@ -10,13 +9,13 @@ let make = (~initialUrl, _children) => {
       <Menu />
       <Router initialUrl>
         ...{
-             (url: ReasonReact.Router.url) =>
-               switch (url.path) {
-               | [] => <Home />
-               | ["home"] => <Home />
-               | _ => "404 not found" |> text
-               }
-           }
+            (url: ReasonReact.Router.url) =>
+              switch (url.path) {
+              | [] => <Home />
+              | ["home"] => <Home />
+              | _ => "404 not found" |> text
+              }
+          }
       </Router>
     </div>,
 };
